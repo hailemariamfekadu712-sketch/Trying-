@@ -1,0 +1,752 @@
+[
+ {
+  "id": "g12-math-001",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Calculus",
+  "question": "If f(x) = 5x^4, find f′(1).",
+  "options": [
+   "22",
+   "19",
+   "20",
+   "21"
+  ],
+  "answer": 2,
+  "explanation": "f′(x) = 20x^3; at x=1 it is 20."
+ },
+ {
+  "id": "g12-math-002",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Quadratics",
+  "question": "Sum of the roots of x² − 2x + 5 = 0?",
+  "options": [
+   "4",
+   "3",
+   "2",
+   "1"
+  ],
+  "answer": 2,
+  "explanation": "For x² − Sx + P = 0 the roots sum to S."
+ },
+ {
+  "id": "g12-math-003",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Sequences",
+  "question": "Arithmetic sequence: first term 8, common difference 6. Find term 6.",
+  "options": [
+   "39",
+   "40",
+   "37",
+   "38"
+  ],
+  "answer": 3,
+  "explanation": "a + (n−1)d = 38."
+ },
+ {
+  "id": "g12-math-004",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Logarithms",
+  "question": "Evaluate log base 5 of 125.",
+  "options": [
+   "2",
+   "5",
+   "4",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": "5^3 = 125, so the log is 3."
+ },
+ {
+  "id": "g12-math-005",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Integration",
+  "question": "Evaluate the integral of 10x dx from 0 to 5.",
+  "options": [
+   "126",
+   "127",
+   "124",
+   "125"
+  ],
+  "answer": 3,
+  "explanation": "[5x²] from 0 to 5 = 125."
+ },
+ {
+  "id": "g12-math-006",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Calculus",
+  "question": "If f(x) = 6x^4, find f′(4).",
+  "options": [
+   "1538",
+   "1537",
+   "1536",
+   "1535"
+  ],
+  "answer": 2,
+  "explanation": "f′(x) = 24x^3; at x=4 it is 1536."
+ },
+ {
+  "id": "g12-math-007",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Quadratics",
+  "question": "Sum of the roots of x² − 5x + 24 = 0?",
+  "options": [
+   "4",
+   "7",
+   "5",
+   "6"
+  ],
+  "answer": 2,
+  "explanation": "For x² − Sx + P = 0 the roots sum to S."
+ },
+ {
+  "id": "g12-math-008",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Sequences",
+  "question": "Arithmetic sequence: first term 8, common difference 5. Find term 7.",
+  "options": [
+   "38",
+   "39",
+   "37",
+   "40"
+  ],
+  "answer": 0,
+  "explanation": "a + (n−1)d = 38."
+ },
+ {
+  "id": "g12-math-009",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Logarithms",
+  "question": "Evaluate log base 2 of 16.",
+  "options": [
+   "6",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer": 2,
+  "explanation": "2^4 = 16, so the log is 4."
+ },
+ {
+  "id": "g12-math-010",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Integration",
+  "question": "Evaluate the integral of 6x dx from 0 to 3.",
+  "options": [
+   "28",
+   "27",
+   "29",
+   "26"
+  ],
+  "answer": 1,
+  "explanation": "[3x²] from 0 to 3 = 27."
+ },
+ {
+  "id": "g12-math-011",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Calculus",
+  "question": "If f(x) = 1x^3, find f′(1).",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer": 1,
+  "explanation": "f′(x) = 3x^2; at x=1 it is 3."
+ },
+ {
+  "id": "g12-math-012",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Quadratics",
+  "question": "Sum of the roots of x² − 13x + 7 = 0?",
+  "options": [
+   "13",
+   "12",
+   "14",
+   "15"
+  ],
+  "answer": 0,
+  "explanation": "For x² − Sx + P = 0 the roots sum to S."
+ },
+ {
+  "id": "g12-math-013",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Sequences",
+  "question": "Arithmetic sequence: first term 8, common difference 5. Find term 19.",
+  "options": [
+   "99",
+   "100",
+   "97",
+   "98"
+  ],
+  "answer": 3,
+  "explanation": "a + (n−1)d = 98."
+ },
+ {
+  "id": "g12-math-014",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Logarithms",
+  "question": "Evaluate log base 4 of 16.",
+  "options": [
+   "1",
+   "3",
+   "2",
+   "4"
+  ],
+  "answer": 2,
+  "explanation": "4^2 = 16, so the log is 2."
+ },
+ {
+  "id": "g12-math-015",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Integration",
+  "question": "Evaluate the integral of 8x dx from 0 to 1.",
+  "options": [
+   "4",
+   "3",
+   "5",
+   "6"
+  ],
+  "answer": 0,
+  "explanation": "[4x²] from 0 to 1 = 4."
+ },
+ {
+  "id": "g12-math-016",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Calculus",
+  "question": "If f(x) = 2x^2, find f′(1).",
+  "options": [
+   "3",
+   "5",
+   "6",
+   "4"
+  ],
+  "answer": 3,
+  "explanation": "f′(x) = 4x^1; at x=1 it is 4."
+ },
+ {
+  "id": "g12-math-017",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Quadratics",
+  "question": "Sum of the roots of x² − 7x + 5 = 0?",
+  "options": [
+   "9",
+   "8",
+   "7",
+   "6"
+  ],
+  "answer": 2,
+  "explanation": "For x² − Sx + P = 0 the roots sum to S."
+ },
+ {
+  "id": "g12-math-018",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Sequences",
+  "question": "Arithmetic sequence: first term 4, common difference 5. Find term 20.",
+  "options": [
+   "100",
+   "98",
+   "99",
+   "101"
+  ],
+  "answer": 2,
+  "explanation": "a + (n−1)d = 99."
+ },
+ {
+  "id": "g12-math-019",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Logarithms",
+  "question": "Evaluate log base 2 of 8.",
+  "options": [
+   "3",
+   "2",
+   "4",
+   "5"
+  ],
+  "answer": 0,
+  "explanation": "2^3 = 8, so the log is 3."
+ },
+ {
+  "id": "g12-math-020",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Integration",
+  "question": "Evaluate the integral of 4x dx from 0 to 4.",
+  "options": [
+   "32",
+   "34",
+   "33",
+   "31"
+  ],
+  "answer": 0,
+  "explanation": "[2x²] from 0 to 4 = 32."
+ },
+ {
+  "id": "g12-math-021",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Quadratics",
+  "question": "Sum of the roots of x² − 7x + 25 = 0?",
+  "options": [
+   "9",
+   "7",
+   "8",
+   "6"
+  ],
+  "answer": 1,
+  "explanation": "For x² − Sx + P = 0 the roots sum to S."
+ },
+ {
+  "id": "g12-math-022",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Sequences",
+  "question": "Arithmetic sequence: first term 4, common difference 2. Find term 14.",
+  "options": [
+   "32",
+   "30",
+   "31",
+   "29"
+  ],
+  "answer": 1,
+  "explanation": "a + (n−1)d = 30."
+ },
+ {
+  "id": "g12-math-023",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Integration",
+  "question": "Evaluate the integral of 10x dx from 0 to 1.",
+  "options": [
+   "5",
+   "7",
+   "6",
+   "4"
+  ],
+  "answer": 0,
+  "explanation": "[5x²] from 0 to 1 = 5."
+ },
+ {
+  "id": "g12-math-024",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Quadratics",
+  "question": "Sum of the roots of x² − 2x + 27 = 0?",
+  "options": [
+   "3",
+   "2",
+   "4",
+   "1"
+  ],
+  "answer": 1,
+  "explanation": "For x² − Sx + P = 0 the roots sum to S."
+ },
+ {
+  "id": "g12-math-025",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Sequences",
+  "question": "Arithmetic sequence: first term 4, common difference 4. Find term 18.",
+  "options": [
+   "74",
+   "73",
+   "72",
+   "71"
+  ],
+  "answer": 2,
+  "explanation": "a + (n−1)d = 72."
+ },
+ {
+  "id": "g12-math-026",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Logarithms",
+  "question": "Evaluate log base 5 of 25.",
+  "options": [
+   "3",
+   "2",
+   "1",
+   "4"
+  ],
+  "answer": 1,
+  "explanation": "5^2 = 25, so the log is 2."
+ },
+ {
+  "id": "g12-math-027",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Integration",
+  "question": "Evaluate the integral of 2x dx from 0 to 1.",
+  "options": [
+   "0",
+   "1",
+   "2",
+   "3"
+  ],
+  "answer": 1,
+  "explanation": "[1x²] from 0 to 1 = 1."
+ },
+ {
+  "id": "g12-math-028",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Calculus",
+  "question": "If f(x) = 6x^3, find f′(4).",
+  "options": [
+   "289",
+   "290",
+   "287",
+   "288"
+  ],
+  "answer": 3,
+  "explanation": "f′(x) = 18x^2; at x=4 it is 288."
+ },
+ {
+  "id": "g12-math-029",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Quadratics",
+  "question": "Sum of the roots of x² − 4x + 16 = 0?",
+  "options": [
+   "4",
+   "3",
+   "5",
+   "6"
+  ],
+  "answer": 0,
+  "explanation": "For x² − Sx + P = 0 the roots sum to S."
+ },
+ {
+  "id": "g12-math-030",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Sequences",
+  "question": "Arithmetic sequence: first term 5, common difference 4. Find term 13.",
+  "options": [
+   "54",
+   "53",
+   "52",
+   "55"
+  ],
+  "answer": 1,
+  "explanation": "a + (n−1)d = 53."
+ },
+ {
+  "id": "g12-math-031",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Logarithms",
+  "question": "Evaluate log base 4 of 64.",
+  "options": [
+   "4",
+   "2",
+   "3",
+   "5"
+  ],
+  "answer": 2,
+  "explanation": "4^3 = 64, so the log is 3."
+ },
+ {
+  "id": "g12-math-032",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Integration",
+  "question": "Evaluate the integral of 4x dx from 0 to 1.",
+  "options": [
+   "2",
+   "4",
+   "1",
+   "3"
+  ],
+  "answer": 0,
+  "explanation": "[2x²] from 0 to 1 = 2."
+ },
+ {
+  "id": "g12-math-033",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Calculus",
+  "question": "If f(x) = 5x^2, find f′(4).",
+  "options": [
+   "40",
+   "42",
+   "41",
+   "39"
+  ],
+  "answer": 0,
+  "explanation": "f′(x) = 10x^1; at x=4 it is 40."
+ },
+ {
+  "id": "g12-math-034",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Quadratics",
+  "question": "Sum of the roots of x² − 4x + 18 = 0?",
+  "options": [
+   "6",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer": 2,
+  "explanation": "For x² − Sx + P = 0 the roots sum to S."
+ },
+ {
+  "id": "g12-math-035",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Sequences",
+  "question": "Arithmetic sequence: first term 3, common difference 4. Find term 7.",
+  "options": [
+   "29",
+   "28",
+   "27",
+   "26"
+  ],
+  "answer": 2,
+  "explanation": "a + (n−1)d = 27."
+ },
+ {
+  "id": "g12-math-036",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Logarithms",
+  "question": "Evaluate log base 4 of 256.",
+  "options": [
+   "3",
+   "6",
+   "4",
+   "5"
+  ],
+  "answer": 2,
+  "explanation": "4^4 = 256, so the log is 4."
+ },
+ {
+  "id": "g12-math-037",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Integration",
+  "question": "Evaluate the integral of 8x dx from 0 to 4.",
+  "options": [
+   "64",
+   "63",
+   "66",
+   "65"
+  ],
+  "answer": 0,
+  "explanation": "[4x²] from 0 to 4 = 64."
+ },
+ {
+  "id": "g12-math-038",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Calculus",
+  "question": "If f(x) = 3x^2, find f′(4).",
+  "options": [
+   "24",
+   "25",
+   "26",
+   "23"
+  ],
+  "answer": 0,
+  "explanation": "f′(x) = 6x^1; at x=4 it is 24."
+ },
+ {
+  "id": "g12-math-039",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Quadratics",
+  "question": "Sum of the roots of x² − 4x + 22 = 0?",
+  "options": [
+   "3",
+   "6",
+   "4",
+   "5"
+  ],
+  "answer": 2,
+  "explanation": "For x² − Sx + P = 0 the roots sum to S."
+ },
+ {
+  "id": "g12-math-040",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Sequences",
+  "question": "Arithmetic sequence: first term 4, common difference 5. Find term 17.",
+  "options": [
+   "84",
+   "83",
+   "85",
+   "86"
+  ],
+  "answer": 0,
+  "explanation": "a + (n−1)d = 84."
+ },
+ {
+  "id": "g12-math-041",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Logarithms",
+  "question": "Evaluate log base 2 of 4.",
+  "options": [
+   "4",
+   "1",
+   "3",
+   "2"
+  ],
+  "answer": 3,
+  "explanation": "2^2 = 4, so the log is 2."
+ },
+ {
+  "id": "g12-math-042",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Integration",
+  "question": "Evaluate the integral of 10x dx from 0 to 4.",
+  "options": [
+   "79",
+   "81",
+   "82",
+   "80"
+  ],
+  "answer": 3,
+  "explanation": "[5x²] from 0 to 4 = 80."
+ },
+ {
+  "id": "g12-math-043",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Calculus",
+  "question": "If f(x) = 5x^3, find f′(4).",
+  "options": [
+   "242",
+   "239",
+   "240",
+   "241"
+  ],
+  "answer": 2,
+  "explanation": "f′(x) = 15x^2; at x=4 it is 240."
+ },
+ {
+  "id": "g12-math-044",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Quadratics",
+  "question": "Sum of the roots of x² − 4x + 5 = 0?",
+  "options": [
+   "6",
+   "5",
+   "3",
+   "4"
+  ],
+  "answer": 3,
+  "explanation": "For x² − Sx + P = 0 the roots sum to S."
+ },
+ {
+  "id": "g12-math-045",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Sequences",
+  "question": "Arithmetic sequence: first term 2, common difference 6. Find term 6.",
+  "options": [
+   "33",
+   "31",
+   "34",
+   "32"
+  ],
+  "answer": 3,
+  "explanation": "a + (n−1)d = 32."
+ },
+ {
+  "id": "g12-math-046",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Integration",
+  "question": "Evaluate the integral of 6x dx from 0 to 2.",
+  "options": [
+   "12",
+   "13",
+   "14",
+   "11"
+  ],
+  "answer": 0,
+  "explanation": "[3x²] from 0 to 2 = 12."
+ },
+ {
+  "id": "g12-math-047",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Calculus",
+  "question": "If f(x) = 6x^2, find f′(1).",
+  "options": [
+   "11",
+   "14",
+   "13",
+   "12"
+  ],
+  "answer": 3,
+  "explanation": "f′(x) = 12x^1; at x=1 it is 12."
+ },
+ {
+  "id": "g12-math-048",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Quadratics",
+  "question": "Sum of the roots of x² − 8x + 9 = 0?",
+  "options": [
+   "10",
+   "8",
+   "7",
+   "9"
+  ],
+  "answer": 1,
+  "explanation": "For x² − Sx + P = 0 the roots sum to S."
+ },
+ {
+  "id": "g12-math-049",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Sequences",
+  "question": "Arithmetic sequence: first term 1, common difference 6. Find term 14.",
+  "options": [
+   "79",
+   "78",
+   "80",
+   "81"
+  ],
+  "answer": 0,
+  "explanation": "a + (n−1)d = 79."
+ },
+ {
+  "id": "g12-math-050",
+  "grade": 12,
+  "subject": "math",
+  "topic": "Logarithms",
+  "question": "Evaluate log base 3 of 27.",
+  "options": [
+   "5",
+   "3",
+   "2",
+   "4"
+  ],
+  "answer": 1,
+  "explanation": "3^3 = 27, so the log is 3."
+ }
+]

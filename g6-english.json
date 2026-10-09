@@ -1,0 +1,77 @@
+[
+ {
+  "id": "g6-english-001",
+  "grade": 6,
+  "subject": "english",
+  "topic": "Grammar",
+  "question": "Choose the correct plural of 'child'.",
+  "options": [
+   "childrens",
+   "childes",
+   "childs",
+   "children"
+  ],
+  "answer": 3,
+  "explanation": "'Child' has an irregular plural."
+ },
+ {
+  "id": "g6-english-002",
+  "grade": 6,
+  "subject": "english",
+  "topic": "Vocabulary",
+  "question": "Which word means the same as 'big'?",
+  "options": [
+   "tiny",
+   "thin",
+   "slow",
+   "large"
+  ],
+  "answer": 3,
+  "explanation": "Large is a synonym of big."
+ },
+ {
+  "id": "g6-english-003",
+  "grade": 6,
+  "subject": "english",
+  "topic": "Grammar",
+  "question": "Select the correct sentence.",
+  "options": [
+   "She goes to school every day.",
+   "She go to school every day.",
+   "She going to school every day.",
+   "She gone to school every day."
+  ],
+  "answer": 0,
+  "explanation": "Third person singular takes -s."
+ },
+ {
+  "id": "g6-english-004",
+  "grade": 6,
+  "subject": "english",
+  "topic": "Vocabulary",
+  "question": "Which word is the opposite of 'hot'?",
+  "options": [
+   "boil",
+   "sun",
+   "warm",
+   "cold"
+  ],
+  "answer": 3,
+  "explanation": "Cold is the antonym of hot."
+ },
+ {
+  "id": "g6-english-005",
+  "grade": 6,
+  "subject": "english",
+  "topic": "Parts of speech",
+  "question": "Which word is a noun in: 'The dog runs fast'?",
+  "options": [
+   "fast",
+   "dog",
+   "runs",
+   "the"
+  ],
+  "answer": 1,
+  "explanation": "A dog is a thing/animal, so it is a noun."
+ }
+]

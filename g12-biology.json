@@ -1,0 +1,77 @@
+[
+ {
+  "id": "g12-biology-001",
+  "grade": 12,
+  "subject": "biology",
+  "topic": "Cells",
+  "question": "Which organelle is the 'powerhouse' of the cell?",
+  "options": [
+   "Nucleus",
+   "Ribosome",
+   "Mitochondria",
+   "Golgi body"
+  ],
+  "answer": 2,
+  "explanation": "Mitochondria produce most ATP."
+ },
+ {
+  "id": "g12-biology-002",
+  "grade": 12,
+  "subject": "biology",
+  "topic": "Genetics",
+  "question": "In DNA, adenine pairs with:",
+  "options": [
+   "Guanine",
+   "Uracil",
+   "Thymine",
+   "Cytosine"
+  ],
+  "answer": 2,
+  "explanation": "A pairs with T."
+ },
+ {
+  "id": "g12-biology-003",
+  "grade": 12,
+  "subject": "biology",
+  "topic": "Human body",
+  "question": "Which protein carries oxygen in blood?",
+  "options": [
+   "Haemoglobin",
+   "Collagen",
+   "Insulin",
+   "Keratin"
+  ],
+  "answer": 0,
+  "explanation": "Haemoglobin binds oxygen in red blood cells."
+ },
+ {
+  "id": "g12-biology-004",
+  "grade": 12,
+  "subject": "biology",
+  "topic": "Cell division",
+  "question": "Which cell division produces gametes?",
+  "options": [
+   "Mitosis",
+   "Meiosis",
+   "Osmosis",
+   "Binary fission"
+  ],
+  "answer": 1,
+  "explanation": "Meiosis halves the chromosome number."
+ },
+ {
+  "id": "g12-biology-005",
+  "grade": 12,
+  "subject": "biology",
+  "topic": "Plants",
+  "question": "Where does photosynthesis occur in a cell?",
+  "options": [
+   "Chloroplast",
+   "Mitochondrion",
+   "Ribosome",
+   "Vacuole"
+  ],
+  "answer": 0,
+  "explanation": "Chloroplasts contain chlorophyll."
+ }
+]

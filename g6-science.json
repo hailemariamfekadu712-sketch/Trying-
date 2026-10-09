@@ -1,0 +1,77 @@
+[
+ {
+  "id": "g6-science-001",
+  "grade": 6,
+  "subject": "science",
+  "topic": "Plants",
+  "question": "Which part of a plant absorbs water from the soil?",
+  "options": [
+   "Flower",
+   "Leaves",
+   "Roots",
+   "Fruit"
+  ],
+  "answer": 2,
+  "explanation": "Roots take up water and minerals."
+ },
+ {
+  "id": "g6-science-002",
+  "grade": 6,
+  "subject": "science",
+  "topic": "Matter",
+  "question": "Which of these is a state of matter?",
+  "options": [
+   "Liquid",
+   "Heat",
+   "Energy",
+   "Light"
+  ],
+  "answer": 0,
+  "explanation": "Solid, liquid and gas are states of matter."
+ },
+ {
+  "id": "g6-science-003",
+  "grade": 6,
+  "subject": "science",
+  "topic": "Matter",
+  "question": "At what temperature does water boil at sea level?",
+  "options": [
+   "50 °C",
+   "150 °C",
+   "100 °C",
+   "0 °C"
+  ],
+  "answer": 2,
+  "explanation": "Water boils at 100 °C."
+ },
+ {
+  "id": "g6-science-004",
+  "grade": 6,
+  "subject": "science",
+  "topic": "Human body",
+  "question": "Which organ pumps blood around the body?",
+  "options": [
+   "Liver",
+   "Lung",
+   "Kidney",
+   "Heart"
+  ],
+  "answer": 3,
+  "explanation": "The heart is the pump of the circulatory system."
+ },
+ {
+  "id": "g6-science-005",
+  "grade": 6,
+  "subject": "science",
+  "topic": "Energy",
+  "question": "What is the main source of energy for Earth?",
+  "options": [
+   "Wind",
+   "The Sun",
+   "Oceans",
+   "The Moon"
+  ],
+  "answer": 1,
+  "explanation": "Nearly all Earth's energy comes from the Sun."
+ }
+]

@@ -1,0 +1,77 @@
+[
+ {
+  "id": "g8-science-001",
+  "grade": 8,
+  "subject": "science",
+  "topic": "Chemistry",
+  "question": "What is the chemical symbol for sodium?",
+  "options": [
+   "S",
+   "So",
+   "Na",
+   "N"
+  ],
+  "answer": 2,
+  "explanation": "Na comes from Latin 'natrium'."
+ },
+ {
+  "id": "g8-science-002",
+  "grade": 8,
+  "subject": "science",
+  "topic": "Physics",
+  "question": "What is the SI unit of force?",
+  "options": [
+   "Joule",
+   "Pascal",
+   "Watt",
+   "Newton"
+  ],
+  "answer": 3,
+  "explanation": "Force is measured in newtons."
+ },
+ {
+  "id": "g8-science-003",
+  "grade": 8,
+  "subject": "science",
+  "topic": "Biology",
+  "question": "Which gas do plants take in for photosynthesis?",
+  "options": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Hydrogen"
+  ],
+  "answer": 2,
+  "explanation": "Plants use CO₂ and water to make glucose."
+ },
+ {
+  "id": "g8-science-004",
+  "grade": 8,
+  "subject": "science",
+  "topic": "Chemistry",
+  "question": "Which of these is a mixture?",
+  "options": [
+   "Air",
+   "Gold",
+   "Oxygen",
+   "Water"
+  ],
+  "answer": 0,
+  "explanation": "Air contains several gases."
+ },
+ {
+  "id": "g8-science-005",
+  "grade": 8,
+  "subject": "science",
+  "topic": "Biology",
+  "question": "What is the basic unit of life?",
+  "options": [
+   "Atom",
+   "Cell",
+   "Tissue",
+   "Organ"
+  ],
+  "answer": 1,
+  "explanation": "All living things are made of cells."
+ }
+]
