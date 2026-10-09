@@ -1,0 +1,77 @@
+[
+ {
+  "id": "g12-english-001",
+  "grade": 12,
+  "subject": "english",
+  "topic": "Grammar",
+  "question": "Had I known, I ___ come earlier.",
+  "options": [
+   "would",
+   "will have",
+   "had",
+   "would have"
+  ],
+  "answer": 3,
+  "explanation": "Third conditional: would have + past participle."
+ },
+ {
+  "id": "g12-english-002",
+  "grade": 12,
+  "subject": "english",
+  "topic": "Grammar",
+  "question": "Which is a complex sentence?",
+  "options": [
+   "We played and sang.",
+   "Play now!",
+   "Although it rained, we played.",
+   "We played."
+  ],
+  "answer": 2,
+  "explanation": "It has a dependent and an independent clause."
+ },
+ {
+  "id": "g12-english-003",
+  "grade": 12,
+  "subject": "english",
+  "topic": "Vocabulary",
+  "question": "What does 'ephemeral' mean?",
+  "options": [
+   "bright",
+   "heavy",
+   "eternal",
+   "lasting a very short time"
+  ],
+  "answer": 3,
+  "explanation": "Ephemeral means short-lived."
+ },
+ {
+  "id": "g12-english-004",
+  "grade": 12,
+  "subject": "english",
+  "topic": "Grammar",
+  "question": "The committee ___ made its decision.",
+  "options": [
+   "has",
+   "were",
+   "have",
+   "are"
+  ],
+  "answer": 0,
+  "explanation": "'Committee' is singular here."
+ },
+ {
+  "id": "g12-english-005",
+  "grade": 12,
+  "subject": "english",
+  "topic": "Vocabulary",
+  "question": "What does 'ubiquitous' mean?",
+  "options": [
+   "ancient",
+   "dangerous",
+   "found everywhere",
+   "very rare"
+  ],
+  "answer": 2,
+  "explanation": "Ubiquitous means present everywhere."
+ }
+]

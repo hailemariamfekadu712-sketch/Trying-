@@ -1,0 +1,77 @@
+[
+ {
+  "id": "g8-english-001",
+  "grade": 8,
+  "subject": "english",
+  "topic": "Grammar",
+  "question": "What is the past tense of 'begin'?",
+  "options": [
+   "beginned",
+   "began",
+   "begining",
+   "begun"
+  ],
+  "answer": 1,
+  "explanation": "'Began' is the simple past."
+ },
+ {
+  "id": "g8-english-002",
+  "grade": 8,
+  "subject": "english",
+  "topic": "Grammar",
+  "question": "Neither of the boys ___ here.",
+  "options": [
+   "be",
+   "is",
+   "are",
+   "were"
+  ],
+  "answer": 1,
+  "explanation": "'Neither' takes a singular verb."
+ },
+ {
+  "id": "g8-english-003",
+  "grade": 8,
+  "subject": "english",
+  "topic": "Punctuation",
+  "question": "Which sentence is punctuated correctly?",
+  "options": [
+   "Its raining so, we stayed inside.",
+   "It's raining, so we stayed inside.",
+   "It's raining so we, stayed inside.",
+   "Its' raining, so we stayed inside."
+  ],
+  "answer": 1,
+  "explanation": "It's = it is; a comma precedes 'so' joining clauses."
+ },
+ {
+  "id": "g8-english-004",
+  "grade": 8,
+  "subject": "english",
+  "topic": "Literature",
+  "question": "'The wind whispered through the trees' is an example of:",
+  "options": [
+   "personification",
+   "hyperbole",
+   "alliteration",
+   "simile"
+  ],
+  "answer": 0,
+  "explanation": "Wind is given a human action."
+ },
+ {
+  "id": "g8-english-005",
+  "grade": 8,
+  "subject": "english",
+  "topic": "Vocabulary",
+  "question": "Which word is the opposite of 'generous'?",
+  "options": [
+   "kind",
+   "happy",
+   "rich",
+   "stingy"
+  ],
+  "answer": 3,
+  "explanation": "Stingy means unwilling to give."
+ }
+]

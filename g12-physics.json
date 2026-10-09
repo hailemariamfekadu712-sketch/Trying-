@@ -1,0 +1,77 @@
+[
+ {
+  "id": "g12-physics-001",
+  "grade": 12,
+  "subject": "physics",
+  "topic": "Units",
+  "question": "What is the SI unit of power?",
+  "options": [
+   "Newton",
+   "Pascal",
+   "Joule",
+   "Watt"
+  ],
+  "answer": 3,
+  "explanation": "Power = energy/time, in watts."
+ },
+ {
+  "id": "g12-physics-002",
+  "grade": 12,
+  "subject": "physics",
+  "topic": "Kinematics",
+  "question": "A body starts from rest with a = 2 m/s². Its speed after 5 s?",
+  "options": [
+   "25 m/s",
+   "10 m/s",
+   "7 m/s",
+   "2.5 m/s"
+  ],
+  "answer": 1,
+  "explanation": "v = u + at = 0 + 2×5 = 10."
+ },
+ {
+  "id": "g12-physics-003",
+  "grade": 12,
+  "subject": "physics",
+  "topic": "Electricity",
+  "question": "Ohm's law states V =",
+  "options": [
+   "IR",
+   "R/I",
+   "I + R",
+   "I/R"
+  ],
+  "answer": 0,
+  "explanation": "Voltage = current × resistance."
+ },
+ {
+  "id": "g12-physics-004",
+  "grade": 12,
+  "subject": "physics",
+  "topic": "Waves",
+  "question": "Approximate speed of light in vacuum?",
+  "options": [
+   "3×10¹⁰ m/s",
+   "3×10⁸ m/s",
+   "3×10⁶ m/s",
+   "3×10⁵ m/s"
+  ],
+  "answer": 1,
+  "explanation": "c ≈ 3×10⁸ m/s."
+ },
+ {
+  "id": "g12-physics-005",
+  "grade": 12,
+  "subject": "physics",
+  "topic": "Energy",
+  "question": "Kinetic energy of a 2 kg mass moving at 3 m/s?",
+  "options": [
+   "12 J",
+   "6 J",
+   "18 J",
+   "9 J"
+  ],
+  "answer": 3,
+  "explanation": "½mv² = ½×2×9 = 9 J."
+ }
+]

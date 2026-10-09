@@ -1,0 +1,752 @@
+[
+ {
+  "id": "g8-math-001",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Linear equations",
+  "question": "Solve 3x + 13 = 46. What is x?",
+  "options": [
+   "10",
+   "11",
+   "13",
+   "12"
+  ],
+  "answer": 1,
+  "explanation": "(46 − 13) ÷ 3 = 11."
+ },
+ {
+  "id": "g8-math-002",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Exponents and roots",
+  "question": "What is √256?",
+  "options": [
+   "18",
+   "17",
+   "16",
+   "15"
+  ],
+  "answer": 2,
+  "explanation": "16 × 16 = 256."
+ },
+ {
+  "id": "g8-math-003",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Coordinate geometry",
+  "question": "Slope of the line through (3,3) and (5,-3)?",
+  "options": [
+   "-1",
+   "-4",
+   "-3",
+   "-2"
+  ],
+  "answer": 2,
+  "explanation": "Rise ÷ run = -6 ÷ 2 = -3."
+ },
+ {
+  "id": "g8-math-004",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Interest",
+  "question": "Simple interest on 300 birr at 9% per year for 2 years (birr)?",
+  "options": [
+   "54",
+   "55",
+   "53",
+   "56"
+  ],
+  "answer": 0,
+  "explanation": "P×R×T/100 = 54."
+ },
+ {
+  "id": "g8-math-005",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Pythagoras",
+  "question": "Right triangle legs 15 and 36. Hypotenuse?",
+  "options": [
+   "41",
+   "38",
+   "39",
+   "40"
+  ],
+  "answer": 2,
+  "explanation": "√(15²+36²) = 39."
+ },
+ {
+  "id": "g8-math-006",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Linear equations",
+  "question": "Solve 3x + 17 = 53. What is x?",
+  "options": [
+   "11",
+   "12",
+   "14",
+   "13"
+  ],
+  "answer": 1,
+  "explanation": "(53 − 17) ÷ 3 = 12."
+ },
+ {
+  "id": "g8-math-007",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Exponents and roots",
+  "question": "What is √81?",
+  "options": [
+   "8",
+   "11",
+   "10",
+   "9"
+  ],
+  "answer": 3,
+  "explanation": "9 × 9 = 81."
+ },
+ {
+  "id": "g8-math-008",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Coordinate geometry",
+  "question": "Slope of the line through (2,4) and (7,-1)?",
+  "options": [
+   "-1",
+   "1",
+   "0",
+   "-2"
+  ],
+  "answer": 0,
+  "explanation": "Rise ÷ run = -5 ÷ 5 = -1."
+ },
+ {
+  "id": "g8-math-009",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Interest",
+  "question": "Simple interest on 300 birr at 2% per year for 3 years (birr)?",
+  "options": [
+   "18",
+   "19",
+   "17",
+   "20"
+  ],
+  "answer": 0,
+  "explanation": "P×R×T/100 = 18."
+ },
+ {
+  "id": "g8-math-010",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Linear equations",
+  "question": "Solve 2x + 15 = 21. What is x?",
+  "options": [
+   "5",
+   "3",
+   "2",
+   "4"
+  ],
+  "answer": 1,
+  "explanation": "(21 − 15) ÷ 2 = 3."
+ },
+ {
+  "id": "g8-math-011",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Exponents and roots",
+  "question": "What is √49?",
+  "options": [
+   "6",
+   "9",
+   "7",
+   "8"
+  ],
+  "answer": 2,
+  "explanation": "7 × 7 = 49."
+ },
+ {
+  "id": "g8-math-012",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Coordinate geometry",
+  "question": "Slope of the line through (4,5) and (9,-10)?",
+  "options": [
+   "-1",
+   "-4",
+   "-2",
+   "-3"
+  ],
+  "answer": 3,
+  "explanation": "Rise ÷ run = -15 ÷ 5 = -3."
+ },
+ {
+  "id": "g8-math-013",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Interest",
+  "question": "Simple interest on 200 birr at 10% per year for 1 years (birr)?",
+  "options": [
+   "19",
+   "22",
+   "20",
+   "21"
+  ],
+  "answer": 2,
+  "explanation": "P×R×T/100 = 20."
+ },
+ {
+  "id": "g8-math-014",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Pythagoras",
+  "question": "Right triangle legs 3 and 4. Hypotenuse?",
+  "options": [
+   "6",
+   "5",
+   "4",
+   "7"
+  ],
+  "answer": 1,
+  "explanation": "√(3²+4²) = 5."
+ },
+ {
+  "id": "g8-math-015",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Linear equations",
+  "question": "Solve 9x + 11 = 29. What is x?",
+  "options": [
+   "2",
+   "4",
+   "1",
+   "3"
+  ],
+  "answer": 0,
+  "explanation": "(29 − 11) ÷ 9 = 2."
+ },
+ {
+  "id": "g8-math-016",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Exponents and roots",
+  "question": "What is √289?",
+  "options": [
+   "18",
+   "17",
+   "16",
+   "19"
+  ],
+  "answer": 1,
+  "explanation": "17 × 17 = 289."
+ },
+ {
+  "id": "g8-math-017",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Coordinate geometry",
+  "question": "Slope of the line through (5,4) and (10,4)?",
+  "options": [
+   "-1",
+   "0",
+   "2",
+   "1"
+  ],
+  "answer": 1,
+  "explanation": "Rise ÷ run = 0 ÷ 5 = 0."
+ },
+ {
+  "id": "g8-math-018",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Interest",
+  "question": "Simple interest on 700 birr at 3% per year for 4 years (birr)?",
+  "options": [
+   "83",
+   "84",
+   "85",
+   "86"
+  ],
+  "answer": 1,
+  "explanation": "P×R×T/100 = 84."
+ },
+ {
+  "id": "g8-math-019",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Pythagoras",
+  "question": "Right triangle legs 10 and 24. Hypotenuse?",
+  "options": [
+   "25",
+   "27",
+   "28",
+   "26"
+  ],
+  "answer": 3,
+  "explanation": "√(10²+24²) = 26."
+ },
+ {
+  "id": "g8-math-020",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Linear equations",
+  "question": "Solve 4x + 12 = 20. What is x?",
+  "options": [
+   "1",
+   "2",
+   "4",
+   "3"
+  ],
+  "answer": 1,
+  "explanation": "(20 − 12) ÷ 4 = 2."
+ },
+ {
+  "id": "g8-math-021",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Coordinate geometry",
+  "question": "Slope of the line through (1,5) and (5,-7)?",
+  "options": [
+   "-2",
+   "-4",
+   "-3",
+   "-1"
+  ],
+  "answer": 2,
+  "explanation": "Rise ÷ run = -12 ÷ 4 = -3."
+ },
+ {
+  "id": "g8-math-022",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Interest",
+  "question": "Simple interest on 300 birr at 8% per year for 5 years (birr)?",
+  "options": [
+   "120",
+   "119",
+   "121",
+   "122"
+  ],
+  "answer": 0,
+  "explanation": "P×R×T/100 = 120."
+ },
+ {
+  "id": "g8-math-023",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Linear equations",
+  "question": "Solve 3x + 12 = 30. What is x?",
+  "options": [
+   "8",
+   "5",
+   "7",
+   "6"
+  ],
+  "answer": 3,
+  "explanation": "(30 − 12) ÷ 3 = 6."
+ },
+ {
+  "id": "g8-math-024",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Coordinate geometry",
+  "question": "Slope of the line through (5,0) and (8,6)?",
+  "options": [
+   "3",
+   "2",
+   "4",
+   "1"
+  ],
+  "answer": 1,
+  "explanation": "Rise ÷ run = 6 ÷ 3 = 2."
+ },
+ {
+  "id": "g8-math-025",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Interest",
+  "question": "Simple interest on 200 birr at 5% per year for 1 years (birr)?",
+  "options": [
+   "12",
+   "9",
+   "11",
+   "10"
+  ],
+  "answer": 3,
+  "explanation": "P×R×T/100 = 10."
+ },
+ {
+  "id": "g8-math-026",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Linear equations",
+  "question": "Solve 4x + 14 = 34. What is x?",
+  "options": [
+   "7",
+   "5",
+   "6",
+   "4"
+  ],
+  "answer": 1,
+  "explanation": "(34 − 14) ÷ 4 = 5."
+ },
+ {
+  "id": "g8-math-027",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Exponents and roots",
+  "question": "What is √400?",
+  "options": [
+   "20",
+   "21",
+   "19",
+   "22"
+  ],
+  "answer": 0,
+  "explanation": "20 × 20 = 400."
+ },
+ {
+  "id": "g8-math-028",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Coordinate geometry",
+  "question": "Slope of the line through (0,2) and (2,-6)?",
+  "options": [
+   "-5",
+   "-3",
+   "-4",
+   "-2"
+  ],
+  "answer": 2,
+  "explanation": "Rise ÷ run = -8 ÷ 2 = -4."
+ },
+ {
+  "id": "g8-math-029",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Interest",
+  "question": "Simple interest on 100 birr at 3% per year for 3 years (birr)?",
+  "options": [
+   "10",
+   "11",
+   "8",
+   "9"
+  ],
+  "answer": 3,
+  "explanation": "P×R×T/100 = 9."
+ },
+ {
+  "id": "g8-math-030",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Pythagoras",
+  "question": "Right triangle legs 6 and 8. Hypotenuse?",
+  "options": [
+   "9",
+   "12",
+   "11",
+   "10"
+  ],
+  "answer": 3,
+  "explanation": "√(6²+8²) = 10."
+ },
+ {
+  "id": "g8-math-031",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Linear equations",
+  "question": "Solve 8x + 9 = 57. What is x?",
+  "options": [
+   "8",
+   "5",
+   "6",
+   "7"
+  ],
+  "answer": 2,
+  "explanation": "(57 − 9) ÷ 8 = 6."
+ },
+ {
+  "id": "g8-math-032",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Exponents and roots",
+  "question": "What is √36?",
+  "options": [
+   "5",
+   "6",
+   "8",
+   "7"
+  ],
+  "answer": 1,
+  "explanation": "6 × 6 = 36."
+ },
+ {
+  "id": "g8-math-033",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Coordinate geometry",
+  "question": "Slope of the line through (1,1) and (4,1)?",
+  "options": [
+   "0",
+   "-1",
+   "2",
+   "1"
+  ],
+  "answer": 0,
+  "explanation": "Rise ÷ run = 0 ÷ 3 = 0."
+ },
+ {
+  "id": "g8-math-034",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Interest",
+  "question": "Simple interest on 900 birr at 4% per year for 3 years (birr)?",
+  "options": [
+   "110",
+   "109",
+   "108",
+   "107"
+  ],
+  "answer": 2,
+  "explanation": "P×R×T/100 = 108."
+ },
+ {
+  "id": "g8-math-035",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Linear equations",
+  "question": "Solve 5x + 17 = 22. What is x?",
+  "options": [
+   "0",
+   "2",
+   "1",
+   "3"
+  ],
+  "answer": 2,
+  "explanation": "(22 − 17) ÷ 5 = 1."
+ },
+ {
+  "id": "g8-math-036",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Coordinate geometry",
+  "question": "Slope of the line through (5,5) and (9,13)?",
+  "options": [
+   "2",
+   "3",
+   "1",
+   "4"
+  ],
+  "answer": 0,
+  "explanation": "Rise ÷ run = 8 ÷ 4 = 2."
+ },
+ {
+  "id": "g8-math-037",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Interest",
+  "question": "Simple interest on 400 birr at 5% per year for 3 years (birr)?",
+  "options": [
+   "62",
+   "60",
+   "59",
+   "61"
+  ],
+  "answer": 1,
+  "explanation": "P×R×T/100 = 60."
+ },
+ {
+  "id": "g8-math-038",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Pythagoras",
+  "question": "Right triangle legs 14 and 48. Hypotenuse?",
+  "options": [
+   "51",
+   "49",
+   "52",
+   "50"
+  ],
+  "answer": 3,
+  "explanation": "√(14²+48²) = 50."
+ },
+ {
+  "id": "g8-math-039",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Linear equations",
+  "question": "Solve 6x + 14 = 26. What is x?",
+  "options": [
+   "4",
+   "1",
+   "2",
+   "3"
+  ],
+  "answer": 2,
+  "explanation": "(26 − 14) ÷ 6 = 2."
+ },
+ {
+  "id": "g8-math-040",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Exponents and roots",
+  "question": "What is √576?",
+  "options": [
+   "24",
+   "25",
+   "23",
+   "26"
+  ],
+  "answer": 0,
+  "explanation": "24 × 24 = 576."
+ },
+ {
+  "id": "g8-math-041",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Coordinate geometry",
+  "question": "Slope of the line through (4,1) and (5,1)?",
+  "options": [
+   "1",
+   "-1",
+   "0",
+   "2"
+  ],
+  "answer": 2,
+  "explanation": "Rise ÷ run = 0 ÷ 1 = 0."
+ },
+ {
+  "id": "g8-math-042",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Interest",
+  "question": "Simple interest on 500 birr at 9% per year for 1 years (birr)?",
+  "options": [
+   "45",
+   "47",
+   "46",
+   "44"
+  ],
+  "answer": 0,
+  "explanation": "P×R×T/100 = 45."
+ },
+ {
+  "id": "g8-math-043",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Pythagoras",
+  "question": "Right triangle legs 8 and 15. Hypotenuse?",
+  "options": [
+   "16",
+   "19",
+   "18",
+   "17"
+  ],
+  "answer": 3,
+  "explanation": "√(8²+15²) = 17."
+ },
+ {
+  "id": "g8-math-044",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Linear equations",
+  "question": "Solve 4x + 1 = 25. What is x?",
+  "options": [
+   "8",
+   "6",
+   "7",
+   "5"
+  ],
+  "answer": 1,
+  "explanation": "(25 − 1) ÷ 4 = 6."
+ },
+ {
+  "id": "g8-math-045",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Exponents and roots",
+  "question": "What is √324?",
+  "options": [
+   "19",
+   "18",
+   "20",
+   "17"
+  ],
+  "answer": 1,
+  "explanation": "18 × 18 = 324."
+ },
+ {
+  "id": "g8-math-046",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Coordinate geometry",
+  "question": "Slope of the line through (1,4) and (2,0)?",
+  "options": [
+   "-3",
+   "-2",
+   "-4",
+   "-5"
+  ],
+  "answer": 2,
+  "explanation": "Rise ÷ run = -4 ÷ 1 = -4."
+ },
+ {
+  "id": "g8-math-047",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Interest",
+  "question": "Simple interest on 700 birr at 2% per year for 4 years (birr)?",
+  "options": [
+   "58",
+   "55",
+   "57",
+   "56"
+  ],
+  "answer": 3,
+  "explanation": "P×R×T/100 = 56."
+ },
+ {
+  "id": "g8-math-048",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Pythagoras",
+  "question": "Right triangle legs 5 and 12. Hypotenuse?",
+  "options": [
+   "13",
+   "15",
+   "12",
+   "14"
+  ],
+  "answer": 0,
+  "explanation": "√(5²+12²) = 13."
+ },
+ {
+  "id": "g8-math-049",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Linear equations",
+  "question": "Solve 9x + 5 = 59. What is x?",
+  "options": [
+   "7",
+   "6",
+   "8",
+   "5"
+  ],
+  "answer": 1,
+  "explanation": "(59 − 5) ÷ 9 = 6."
+ },
+ {
+  "id": "g8-math-050",
+  "grade": 8,
+  "subject": "math",
+  "topic": "Exponents and roots",
+  "question": "What is √16?",
+  "options": [
+   "5",
+   "4",
+   "3",
+   "6"
+  ],
+  "answer": 1,
+  "explanation": "4 × 4 = 16."
+ }
+]

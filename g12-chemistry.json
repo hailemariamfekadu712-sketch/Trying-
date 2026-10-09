@@ -1,0 +1,77 @@
+[
+ {
+  "id": "g12-chemistry-001",
+  "grade": 12,
+  "subject": "chemistry",
+  "topic": "Acids and bases",
+  "question": "pH of pure water at 25 °C?",
+  "options": [
+   "7",
+   "14",
+   "1",
+   "0"
+  ],
+  "answer": 0,
+  "explanation": "Neutral water has pH 7."
+ },
+ {
+  "id": "g12-chemistry-002",
+  "grade": 12,
+  "subject": "chemistry",
+  "topic": "Atomic structure",
+  "question": "Atomic number of carbon?",
+  "options": [
+   "6",
+   "8",
+   "14",
+   "12"
+  ],
+  "answer": 0,
+  "explanation": "Carbon has 6 protons."
+ },
+ {
+  "id": "g12-chemistry-003",
+  "grade": 12,
+  "subject": "chemistry",
+  "topic": "Compounds",
+  "question": "Chemical formula of table salt?",
+  "options": [
+   "NaOH",
+   "KCl",
+   "NaCl",
+   "CaCl₂"
+  ],
+  "answer": 2,
+  "explanation": "Sodium chloride is NaCl."
+ },
+ {
+  "id": "g12-chemistry-004",
+  "grade": 12,
+  "subject": "chemistry",
+  "topic": "Mole concept",
+  "question": "Avogadro's number is approximately:",
+  "options": [
+   "6.022×10²³",
+   "9.1×10⁻³¹",
+   "3.0×10⁸",
+   "6.022×10²²"
+  ],
+  "answer": 0,
+  "explanation": "One mole contains 6.022×10²³ particles."
+ },
+ {
+  "id": "g12-chemistry-005",
+  "grade": 12,
+  "subject": "chemistry",
+  "topic": "Organic",
+  "question": "Which is an alkane?",
+  "options": [
+   "C₂H₂",
+   "C₆H₆",
+   "C₂H₄",
+   "CH₄"
+  ],
+  "answer": 3,
+  "explanation": "Alkanes have only single bonds (CₙH₂ₙ₊₂)."
+ }
+]
